@@ -422,8 +422,6 @@ const SingleInvitePage = () => {
                 </div>
                 <p><strong>Meeting Room:</strong> {formData.defaultMeetingRoom || 'N/A'}, 2nd Floor</p>
                 <p><strong>Company Name:</strong> {formData.branch || 'N/A'}</p>
-                <p><strong>Vehicle:</strong> {formData.vehicle || 'N/A'}</p>
-                <p><strong>Vehicle Number:</strong> {formData.vehicleNumber || 'N/A'}</p>
                 <p><strong>Accessories Carried:</strong> Laptop, Phone</p>
               </div>
             </div>
